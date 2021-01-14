@@ -15,7 +15,11 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # Do not store data in repo by default
-*.csv
+data/supplemental_files
+data/processed/depmap19Q1
+data/processed/ensembl93
+data/processed/other
+data/processed/CORUM_entrez_map.csv
 
 .DS_Store
 
